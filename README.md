@@ -6,8 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Дизайн интерьера</title>
     </head>
-</head>
-<bod >
+<body>
 <style>
    body {
     background: url(1фон.jpg) no-repeat;
@@ -73,69 +72,69 @@ background-attachment: fixed
             <td valign="top" width="200" bgcolor="#F4EFE6">
                 <br>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top">Авангард</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top">Авангард</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top1">Ампир</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top1">Ампир</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top2">Английский стиль</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top2">Английский стиль</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top3">Античный стиль</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top3">Античный стиль</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top4">Арт-деко</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top4">Арт-деко</a><
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top5">Барокко</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top5">Барокко</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top6">Бионика</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top6">Бионика</a><
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top7">Бохо-шик</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top7">Бохо-шик</a><
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top8">Брутализм</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top8">Брутализм</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top9">Версаль</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top9">Версаль</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top10">Викторианский стиль</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top10">Викторианский стиль</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top11">Винтаж</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top11">Винтаж</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top12">Готический стиль</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top12">Готический стиль</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top13">Гранж</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top13">Гранж</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top14">Классический стиль</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top14">Классический стиль</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top15">Консерватизм</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top15">Консерватизм</a><
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top16">Конструктивизм</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top16">Конструктивизм</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top17">Лофт</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top17">Лофт</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top18">Минимализм</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top18">Минимализм</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top19">Модерн</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top19">Модерн</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top20">Неоклассика</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top20">Неоклассика</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top21">Парижский стиль</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top21">Парижский стиль</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top22">Поп-арт</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top22">Поп-арт</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top23">Прованс</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top23">Прованс</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top24">Рококо</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top24">Рококо</a><
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top25">Романтизм</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top25">Романтизм</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top26">Скандинавский стиль</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top26">Скандинавский стиль</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top27">Стимпанк</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top27">Стимпанк</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top28">Футуризм</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top28">Футуризм</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top29">Хай-тек</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top29">Хай-тек</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top30">Хюгге</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top30">Хюгге</a>
 
-                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top31">Эклектика</a></a>
+                <p align="left"><font align="center" size="5" color="black" face="Calibri"><a href="#top31">Эклектика</a>
             </td>
 
 
@@ -145,12 +144,10 @@ background-attachment: fixed
                     <b><u>Стиль интерьера</b></u> ― это совокупность характерных признаков, отличающих разные направления в отделке, оформлении, меблировке и декорировании помещений.
                     <br><br>
                     Популярные стили интерьера - список с фото:
-                </font>
 
                 <br><br>
                 <font size="6" color="black" face="Calibri">
-                    <center><i><b><a name="top">Авангард</a></i></body>
-                </font>
+                    <center><i><b><a name="top">Авангард</a>
                 <br>
                 <img src="Авангард.jpg" width="800">
                 <br><br>
@@ -158,37 +155,31 @@ background-attachment: fixed
                     Авангард — современный и динамичный стиль, наполненный духом молодости и озорства. Несмотря на то, что впервые тенденции авангарда стали проявляться еще в 60-х годах прошлого века, этот стиль и сегодня выглядит весьма оригинально и часто становится основой для создания многих интерьеров или дополнением к ним.
                     <br>
                     Яркие краски, простые текстуры, необычные формы и свежесть дизайнерских решений — все это делает интерьеры яркими и неповторимыми. Авангард — одно из направлений, которое сложно перепутать с другим, — настолько он своеобразен. Он — как противоположность традиционному пафосу исторических стилей.
-                    </center>
                 </font>
 
                 <br><br><br>
                 <font size="6" color="black" face="Calibri">
-                    <center><i><b><a name="top1">Ампир</a></i></b>
-                </font>
+                    <center><i><b><a name="top1">Ампир</a></b>
                 <br>
                 <img src="Ампир.jpg" width="800">
                 <br><br>
                 <font size="5" color="black" face="Calibri">
                     Более величественный, чем классика, менее вычурный, чем барокко, традиционный и немного напыщенный – таков стиль, который стал отражением римского классического дизайна с элементами древнеегипетской культуры. При этом зародился он во Франции – во времена правления Наполеона Бонапарта.
-                    </center>
                 </font>
 
                 <br><br><br>
                 <font size="6" color="black" face="Calibri">
                     <center><i><b><a name="top2">Английский стиль</a></i></b>
-                </font>
                 <br>
                 <img src="Английский.jpg" width="800">
                 <br><br>
                 <font size="5" color="black" face="Calibri">
                     Интерьер в английском стиле – это общее название различных направлений в дизайне и архитектуре, которые развивались в Великобритании от средних веков и до теперешнего времени. Приглянуться British style может элегантной сдержанностью, классической роскошью, высоким качеством материалов, наличием множества элементов декора при отсутствии кричащих акцентов. В своем завершенном виде – это образец элегантности и хорошего вкуса.
-                    </center>
                 </font>
 
                 <br><br><br>
                 <font size="6" color="black" face="Calibri">
                     <center><i><b><a name="top3">Античный стиль</a></i></b>
-                </font>
                 <br>
                 <img src="Античный.jpg" width="800">
                 <br><br>
@@ -196,13 +187,10 @@ background-attachment: fixed
                     Древняя Эллада и Римская империя – это культ красоты, размах и могущество.
                     <br>
                     Стены античного дома украшают барельефами, устраивают ниши, в которых выставляют вазы или статуи. Поверхности покрывают штукатуркой либо краской насыщенных оттенков синего, зеленого и золотого в сочетании с белым; в прихожей, ванной и на кухне используют плитку «под мрамор». Идеальный потолок – в виде купола, расписной, украшенный лепниной; полы гладкие, полированные. Мебель в доме стиля антик деревянная: трапециевидные столы, стулья на характерных выгнутых ножках, скамейки, лежанки, тумбы, сундучки с мозаичными вставками.
-                    </center>
-                </font>
 
                 <br><br><br>
                 <font size="6" color="black" face="Calibri">
                     <center><i><b><a name="top4">Арт-деко</a></i></b>
-                </font>
                 <br>
                 <img src="Арт-деко.jpg" width="800">
                 <br><br>
@@ -212,8 +200,6 @@ background-attachment: fixed
                     Базовые качества интерьера арт-деко – многоуровневые потолки, геометрические узоры, вкрапления из редкого сырья (слоновая кость, крокодиловая кожа, шкура зебры на полу), лакированная, глянцевая мебель, контрастная палитра, зеркала в форме лучистого солнца, дорогие ткани и обилие светильников.
                     <br>
                     Арт-деко  сложился в эпоху индустриализации, поэтому не равнодушен к алюминию и хрому, стеклу и нержавеющей стали. Для покрытия пола используют и паркетную доску, и керамическую плитку, стены красят в яркие цвета или оклеивают обоями с выраженным геометрическим орнаментом. Потолок может быть белым с золотыми бордюрами или же темным, с подсветкой, что придаст помещению клубности. Декорируют дом винтажными постерами, работами авангардистов, ретро-статуэтками и дорогими безделушками, привезенными из путешествий.
-                    </center>
-                </font>
 
                 <br><br><br>
                 <font size="6" color="black" face="Calibri">
@@ -228,8 +214,6 @@ background-attachment: fixed
                     Стиль заточен под вельмож, поэтому среди предметов мебели главенствуют кресла, диваны и кровати. Корпулентные, помпезные, с дорогой, светлых тонов драпировкой, ножками-львиными лапами, они занимают самые почетные места.
                     <br>
                     Текстиля много: это не только шторы и портьеры с ламбрекенами, но еще и балдахины, украшенные воланами и бантами. Расцветка тканей напоминает драгоценные металлы и камни – золото, рубин, изумруд
-                    </center>
-                </font>
 
                 <br><br><br>
                 <font size="6" color="black" face="Calibri">
