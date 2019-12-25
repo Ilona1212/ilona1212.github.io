@@ -626,5 +626,5 @@ background-attachment: fixed
 
     <script src="script.js"></script>
 
-</bod>
+</body>
 </html>
